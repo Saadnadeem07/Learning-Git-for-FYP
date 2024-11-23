@@ -2,6 +2,19 @@
 
 This repository was created solely for personal testing purposes. I am using it to familiarize myself with Git and GitHub, and to explore version control workflows. The content here is not intended for any production or real-world use.
 
+## Initializing the Git
+
+```bash
+git init 
+git remote add origin https://github.com/Saadnadeem07/Learning-Git-for-FYP.git
+```
+
+## Pull The Repo
+
+```bash
+git pull origin main
+```
+
 ## Purpose
 
 - To test Git commands and workflows.
