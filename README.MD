@@ -26,9 +26,7 @@ git pull origin main
 Feel free to explore, but please note that this repository does not serve any other purpose beyond testing.
 
 ## Notes
-
 - The repository contains practice work and may include experimental changes.
 - Changes here are for educational and self-testing purposes.
-
 
 Thank you for visiting!
