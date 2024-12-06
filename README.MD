@@ -8,6 +8,8 @@ Create a Folder named XYZ in your Laptop. Right-Click on Folder and open it in V
 
 ```bash
 git init 
+```
+```bash
 git remote add origin https://github.com/Saadnadeem07/Learning-Git-for-FYP.git
 ```
 
